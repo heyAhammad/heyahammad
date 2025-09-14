@@ -1,9 +1,9 @@
 ![bannerr](assets/herosec.png)
 
-<h1 align="center">
-  Hey, I'm 
-  <img alt="Coding" width="150" src="assets/logo.png" style="vertical-align: middle;">
-</h1>
+<h1 align="center">Hey, I'm</h1>
+<p align="center">
+  <img alt="Coding" width="150" src="assets/logo.png">
+</p>
 
 <h3 align="center">A student, learner, code freak!</h3>
 <img align="right" alt="Coding" width="400" src="assets/me.png">
