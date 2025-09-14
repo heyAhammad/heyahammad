@@ -1,4 +1,4 @@
-![bannerr](/assets/herosec.png)
+![bannerr](assets/herosec.png)
 
 <h1 align="center">Hey, Im FAISAL AHAMMAD</h1>
 <h3 align="center">A student, learner, code freak!</h3>
