@@ -1,9 +1,8 @@
 ![bannerr](assets/herosec.png)
 
-<h1 align="center">Hey, Im FAISAL AHAMMAD</h1>
+<h1 align="center">Hey, Im <img align="right" alt="Coding" width="150" src="assets/logo.png"></h1>
 <h3 align="center">A student, learner, code freak!</h3>
 <img align="right" alt="Coding" width="400" src="assets/me.png">
-<img align="right" alt="Coding" width="400" src="assets/logo.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyahammad&label=Profile%20views&color=0e75b6&style=flat" alt="heyahammad" /> </p>
 
