@@ -31,7 +31,10 @@
 
 ### 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,react,dart,flutter,vscode,figma,git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,dart" height="50"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,vscode,figma,photoshop,xd,git,github" height="50"/>
 </p>
 
 ---
